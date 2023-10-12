@@ -2,7 +2,7 @@ package DsAndAlgorithm.binarysearch;
 
 import java.util.Arrays;
 
-public class BinarySearchMatrix {
+public class BinarySearchRowColMatrix {
     
     public static void main(String[] args){
         int[][] matrix = {
